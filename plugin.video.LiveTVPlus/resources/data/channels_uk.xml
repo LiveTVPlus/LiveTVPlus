@@ -84,7 +84,7 @@
         epg="http://i.teleboy.ch/programm/station.php?station_id=195">
     </channel>
     <channel
-        name="FRANCE24 ENGLISHhhh"
+        name="FRANCE24 ENGLISH"
         url="http://media10.lsops.net/live/france24_en.smil/playlist.m3u8"
         epg="http://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
@@ -92,40 +92,40 @@
     <channel
         name="SKYSPORTS 1"
         url="rtmp://46.246.124.15:443/liverepeater playpath=20724 swfUrl=http://xstream.yt/player.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=f@nko&width=620&height=490"
-        epg="">
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
    
   
    <channel
         name="SKYSPORTS 2"
         url="rtmp://46.246.124.15:443/liverepeater playpath=13903 swfUrl=http://xstream.yt/player.swf live=1"
-        epg="">
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
     
     <channel
         name="SKY SPORTS 3"
-        url="rtmp://46.246.124.15:443/liverepeater playpath=20825 swfUrl=http://xstream.yt/player.swf live=1"
-        epg="">
+        url="rtmp://46.246.124.15:443/liverepeater playpath=20825"
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
     
    <channel
         name="SKY SPORTS 4"
         url="rtmp://46.246.124.15:443/liverepeater playpath=20719 swfUrl=http://xstream.yt/player.swf live=1"
-        epg="">
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
   
   
      <channel
         name="SKY SPORTS F1"
         url="rtmp://46.19.139.146:1935/stream/ playpath=ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1"
-        epg="">
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
   
   
    <channel
         name="SKY SPORTS NEWS"
         url="rtmp://46.246.124.15:443/liverepeater playpath=20723 swfUrl=http://xstream.yt/player.swf live=1"
-        epg="">
+        epg="ttp://i.teleboy.ch/programm/station.php?station_id=149">
     </channel>
   
   
