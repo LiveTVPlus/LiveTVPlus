@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<channels>
+
+
+    <channel
+        name="SKYSPORTS 1"
+        url="http://91.109.20.49/hls/14.m3u8"
+        epg="">
+    </channel>
+   
+  
+   <channel
+        name="EUROSPORT"
+        url="http://live-tv.to/television_channels/103"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=132">
+    </channel>
+    <channel
+        name="EUROSPORT HD"
+        url="http://live-tv.to/television_channels/106"
+        epg="">
+    </channel>
+    <channel
+        name="EUROSPORT2"
+        url="http://live-tv.to/television_channels/107"
+        epg="http://i.teleboy.ch/programm/station.php?station_id=135">
+    </channel>
+    <channel
+        name="EUROSPORT2 HD"
+        url="http://live-tv.to/television_channels/105"
+        epg="">
+    </channel>
+</channels>
+</data>
