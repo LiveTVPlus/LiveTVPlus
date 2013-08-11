@@ -91,10 +91,60 @@
    
     <channel
         name="SKYSPORTS 1"
-        url="http://91.109.20.49/hls/14.m3u8"
-        epg="http://www.bleb.org/tv/data/listings/0/sky_sports1.xml">
+        url="rtmp://46.246.124.15:443/liverepeater playpath=20724 swfUrl=http://xstream.yt/player.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=f@nko&width=620&height=490"
+        epg="">
     </channel>
    
+  
+   <channel
+        name="SKYSPORTS 2"
+        url="rtmp://46.246.124.15:443/liverepeater playpath=13903 swfUrl=http://xstream.yt/player.swf live=1"
+        epg="">
+    </channel>
+    
+    <channel
+        name="SKY SPORTS 3"
+        url="rtmp://46.246.124.15:443/liverepeater playpath=20825 swfUrl=http://xstream.yt/player.swf live=1"
+        epg="">
+    </channel>
+    
+   <channel
+        name="SKY SPORTS 4"
+        url="rtmp://46.246.124.15:443/liverepeater playpath=20719 swfUrl=http://xstream.yt/player.swf live=1"
+        epg="">
+    </channel>
+  
+  
+     <channel
+        name="SKY SPORTS F1"
+        url="rtmp://46.19.139.146:1935/stream/ playpath=ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1"
+        epg="">
+    </channel>
+  
+  
+   <channel
+        name="SKY SPORTS NEWS"
+        url="rtmp://46.246.124.15:443/liverepeater playpath=20723 swfUrl=http://xstream.yt/player.swf live=1"
+        epg="">
+    </channel>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
    <channel
         name="EUROSPORT"
