@@ -3,52 +3,52 @@
 <countries>
     <country
         name="AUSTRIA"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_at.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_at.xml"
         timestamp="20/07/2013 21:44:00">
     </country>
     <country
         name="GERMANY"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_de.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_de.xml"
         timestamp="23/07/2013 14:40:00">
     </country>
     <country
         name="FRANCE"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_fr.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_fr.xml"
         timestamp="20/07/2013 22:33:00">
     </country>
     <country
         name="LUXEMBOURG"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_lu.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_lu.xml"
         timestamp="17/04/2013 00:00:00">
     </country>
     <country
         name="PORTUGAL"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_pt.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_pt.xml"
         timestamp="17/04/2013 00:00:00">
     </country>
     <country
         name="SPAIN"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_es.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_es.xml"
         timestamp="22/07/2013 14:02:00">
     </country>
     <country
         name="SWITZERLAND"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_ch.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_ch.xml"
         timestamp="20/07/2013 22:36:00">
     </country>
     <country
         name="UNITED KINGDOM"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_uk.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_uk.xml"
         timestamp="20/07/2013 23:54:00">
     </country>
     <country
         name="UNITED STATES OF AMERICA"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/channels_us.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/channels_us.xml"
         timestamp="21/07/2013 00:17:00">
      </country>   
      <country
         name="SPORTS"
-        xml="https://raw.github.com/LiveTVBeta/LiveTVBeta/master/plugin.video.tvbox/resources/data/sports.xml"
+        xml="https://raw.github.com/LiveTVPlus/LiveTVPlus/master/plugin.video.LiveTVPlus/resources/data/sports.xml"
         timestamp="21/07/2013 00:17:00">    
         
         
