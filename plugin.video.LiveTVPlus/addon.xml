@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.LiveTVPlus"
-       name="johnny smith"
+       name="LiveTVPlus"
        version="1.0.6"
        provider-name="Johnny Smith">
     <requires>
